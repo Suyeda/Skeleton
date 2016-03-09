@@ -1,0 +1,66 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+  #image1 {
+    height: 760px;
+    width: 100%;
+    position: relative;
+    z-index: -1;
+  }
+  #image2 {
+    height: 760px;
+    width: 100%;
+    position: relative;
+    z-index: -1;
+  }
+
+#content{
+  height: auto 0px;
+  width: 100%;
+  margin-top: -10px;
+  margin-bottom: -20px;
+  background-color: #1a2239;
+  z-index: 1;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Sigmar One', cursive;
+}
+.clashfont{
+  font-family: 'Sigmar One', cursive;
+}
+
+.collapsible-body{
+  background-color: white;
+}
+
+.elixir{
+  color: #fe44ff;
+}
+
+#card{
+  display: block;
+  margin: 0 auto;
+  width: 140px;
+  height: 160px;
+}
+.card_text{
+  text-align: center;
+}
+
+.nav-wrapper{
+  background-color: #0f4277;
+}
+
+  .legend{
+    color: #D80032;
+  }
+  .epic{
+    color: purple;
+  }
+  .rare{
+    color: orange;
+  }
